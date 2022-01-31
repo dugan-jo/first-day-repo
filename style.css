@@ -1,0 +1,17 @@
+
+body {
+    text-align:  center;
+    background: rgb(20,101,142);
+    background: linear-gradient(180deg, rgba(20,101,142,1) 0%, rgba(57,48,62,1) 29%, rgba(255,0,153,0.4143222506393862) 100%);
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+}
+ul {
+    text-align: left;
+}
+img {
+    box-shadow: 0 0 20px #FF0000, 0 0 5px #0000FF;
+}
